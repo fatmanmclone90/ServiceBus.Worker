@@ -1,0 +1,13 @@
+﻿{
+  "profiles": {
+    "ServiceBus.Worker": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "ServiceBusOptions__QueueName": "whds-warehouse-event-listener/chris-batch-update",
+        "ServiceBusOptions__MaxConcurrentCalls": "2",
+        "ServiceBusOptions__Namespace": "OrderFulfilmentv2-SB-WHS-Dev-EUW.servicebus.windows.net",
+        "APPINSIGHTS_INSTRUMENTATIONKEY": "8515eb55-7459-4307-a252-6ef8c8f6fc6a"
+      }
+    }
+  }
+}

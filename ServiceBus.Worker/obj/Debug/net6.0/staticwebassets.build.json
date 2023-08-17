@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DrbY8ZunBN/KUB1ePlU3EbEpGK9c+5I5xmJhuA3NHq8=",
+  "Source": "Whds.WarehouseEventListener.Worker",
+  "BasePath": "_content/Whds.WarehouseEventListener.Worker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

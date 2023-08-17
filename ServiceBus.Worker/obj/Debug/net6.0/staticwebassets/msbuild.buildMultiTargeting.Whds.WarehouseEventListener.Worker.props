@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Whds.WarehouseEventListener.Worker.props" />
+</Project>
