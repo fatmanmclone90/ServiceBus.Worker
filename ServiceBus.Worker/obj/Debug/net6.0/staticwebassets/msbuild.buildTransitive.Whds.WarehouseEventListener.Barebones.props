@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Whds.WarehouseEventListener.Barebones.props" />
-</Project>
